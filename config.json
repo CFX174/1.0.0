@@ -1,0 +1,12 @@
+{
+    "Activities-Discord-Bot": {
+        "PLAYING": "with the Discord API",
+        "WATCHING": "over the server",
+        "LISTENING": "to music"
+    },
+    "Bot-Settings": {
+        "COMMAND_PREFIX": "$",
+        "TOKEN": "MTM3NTY5ODI4NjY5Mzg0NzExMQ.GsbtM-.OU5CNaCzvGtdXSTx37wJZX3o-ttomCPfIiqdF0",
+        "OWNER_ID": "704814879952994325"
+    }
+}
